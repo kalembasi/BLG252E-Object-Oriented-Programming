@@ -1,0 +1,1134 @@
+--------THE WARMONGER: A NEW DIMENSION--------
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 0
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+---------------------------------
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 1
+
+----CHOOSE FACTION(S)----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   All
+5-   Back
+Your choice: 1
+
+-------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 1
+
+----CHOOSE FACTION(S)----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   All
+5-   Back
+Your choice: 2
+
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 1
+
+----CHOOSE FACTION(S)----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   All
+5-   Back
+Your choice: 3
+
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 1
+
+----CHOOSE FACTION(S)----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   All
+5-   Back
+Your choice: 4
+
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 0
+Please enter a valid choice: 5
+Please enter a valid choice: 4
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling weapons to Orcs----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 15
+You try to sell more weapons than you have in possession.
+
+----Selling weapons to Orcs----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 0
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling weapons to Orcs----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 10
+Weapons sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 200
+Weapon Points Left: 0 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 3
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling armors to Orcs----
+Available armor points for today: 10
+Enter armor points you want to sell (To cancel enter 0): 15
+You try to sell more armors than you have in possession.
+
+----Selling armors to Orcs----
+Available armor points for today: 10
+Enter armor points you want to sell (To cancel enter 0): 0
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 200
+Weapon Points Left: 0 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 3
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling armors to Orcs----
+Available armor points for today: 10
+Enter armor points you want to sell (To cancel enter 0): 10
+Armors sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 1
+Revenue: 210
+Weapon Points Left: 0 | Armor Points Left: 0
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 210
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      47
+Attack Point:         40
+Health Point:         230
+Unit Regen Number:    10
+Total Faction Health: 10810
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      54
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 16200
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      28
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3360
+---------------------------------
+
+Battle of the Three Armies - Day 2
+Revenue: 210
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action:
+2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling weapons to Orcs----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 10
+Weapons sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 2
+Revenue: 410
+Weapon Points Left: 0 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 3
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling armors to Orcs----
+Available armor points for today: 10
+Enter armor points you want to sell (To cancel enter 0): 10
+Armors sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 2
+Revenue: 420
+Weapon Points Left: 0 | Armor Points Left: 0
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 420
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      54
+Attack Point:         60
+Health Point:         260
+Unit Regen Number:    10
+Total Faction Health: 14040
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      56
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 16800
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      17
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 2040
+---------------------------------
+
+Battle of the Three Armies - Day 3
+Revenue: 420
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling weapons to Orcs----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 10
+Weapons sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 3
+Revenue: 620
+Weapon Points Left: 0 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 3
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling armors to Orcs----
+Available armor points for today: 10
+Enter armor points you want to sell (To cancel enter 0): 10
+Armors sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 3
+Revenue: 630
+Weapon Points Left: 0 | Armor Points Left: 0
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 630
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      62
+Attack Point:         80
+Health Point:         290
+Unit Regen Number:    10
+Total Faction Health: 17980
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      57
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 17100
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Defeated
+Number of Units:      0
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 0
+---------------------------------
+
+Battle of the Three Armies - Day 4
+Revenue: 630
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 3
+
+----Selling weapons to Elves----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 5
+The faction you want to sell weapons is dead!
+
+----Selling weapons to Elves----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 0
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 4
+Revenue: 630
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling weapons to Orcs----
+Available weapon points for today: 10
+Enter weapon points you want to sell (To cancel enter 0): 5
+Weapons sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 4
+Revenue: 730
+Weapon Points Left: 5 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 2
+
+Available weapon points for today: 5
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 2
+
+----Selling weapons to Dwarves----
+Available weapon points for today: 5
+Enter weapon points you want to sell (To cancel enter 0): 5
+Weapons sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 4
+Revenue: 780
+Weapon Points Left: 0 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 3
+
+Available weapon points for today: 10
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 1
+
+----Selling armors to Orcs----
+Available armor points for today: 10
+Enter armor points you want to sell (To cancel enter 0): 5
+Armors sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 4
+Revenue: 785
+Weapon Points Left: 0 | Armor Points Left: 5
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 3
+
+Available weapon points for today: 5
+----CHOOSE FACTION TO SELL WEAPONS----
+1-   Orcs
+2-   Dwarves
+3-   Elves
+4-   Back
+Your choice: 2
+
+----Selling armors to Dwarves----
+Available armor points for today: 5
+Enter armor points you want to sell (To cancel enter 0): 5
+Armors sold!
+
+Press any key to continue.
+
+
+Battle of the Three Armies - Day 4
+Revenue: 800
+Weapon Points Left: 0 | Armor Points Left: 0
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 800
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      68
+Attack Point:         90
+Health Point:         305
+Unit Regen Number:    10
+Total Faction Health: 20740
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      44
+Attack Point:         45
+Health Point:         310
+Unit Regen Number:    5
+Total Faction Health: 13640
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Defeated
+Number of Units:      0
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 0
+---------------------------------
+
+Battle of the Three Armies - Day 5
+Revenue: 800
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 800
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      76
+Attack Point:         90
+Health Point:         305
+Unit Regen Number:    10
+Total Faction Health: 23180
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      30
+Attack Point:         45
+Health Point:         310
+Unit Regen Number:    5
+Total Faction Health: 9300
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Defeated
+Number of Units:      0
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 0
+---------------------------------
+
+Battle of the Three Armies - Day 6
+Revenue: 800
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 800
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      86
+Attack Point:         90
+Health Point:         305
+Unit Regen Number:    10
+Total Faction Health: 26230
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      13
+Attack Point:         45
+Health Point:         310
+Unit Regen Number:    5
+Total Faction Health: 4030
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Defeated
+Number of Units:      0
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 0
+---------------------------------
+
+Battle of the Three Armies - Day 7
+Revenue: 800
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 4
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 800
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      97
+Attack Point:         90
+Health Point:         305
+Unit Regen Number:    10
+Total Faction Health: 29585
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Defeated
+Number of Units:      0
+Attack Point:         45
+Health Point:         310
+Unit Regen Number:    5
+Total Faction Health: 0
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Defeated
+Number of Units:      0
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 0
+---------------------------------
+
+----Orcs have won the war.----
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      97
+Attack Point:         90
+Health Point:         305
+Unit Regen Number:    10
+Total Faction Health: 29585
+
+Game ended!
+8 days have passed.
+800 golds earned.
+
+If you want to play again, enter "1". Else, enter "0": 1
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 0
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+---------------------------------
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 5
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 0
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+---------------------------------
+
+Game ended!
+1 days have passed.
+0 golds earned.
+
+If you want to play again, enter "1". Else, enter "0": 1
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 0
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+---------------------------------
+
+Battle of the Three Armies - Day 1
+Revenue: 0
+Weapon Points Left: 10 | Armor Points Left: 10
+
+----CHOOSE AN ACTION----
+1-   Print faction information
+2-   Sell weapons
+3-   Sell armors
+4-   End the day
+5-   End the game
+6-   Quit game
+Your action: 6
+
+---------------------------------
+Battle of The Three Armies
+
+Total Revenue: 0
+
+FACTIONS
+--------------ORCS---------------
+"Stop running, you'll only die tired!"
+Faction Name:         Orcs
+Status:               Alive
+Number of Units:      40
+Attack Point:         20
+Health Point:         200
+Unit Regen Number:    10
+Total Faction Health: 8000
+-------------DWARVES-------------
+"Taste the power of our axes!"
+Faction Name:         Dwarves
+Status:               Alive
+Number of Units:      50
+Attack Point:         40
+Health Point:         300
+Unit Regen Number:    5
+Total Faction Health: 15000
+--------------ELVES--------------
+"You cannot reach our elegance."
+Faction Name:         Elves
+Status:               Alive
+Number of Units:      30
+Attack Point:         20
+Health Point:         120
+Unit Regen Number:    15
+Total Faction Health: 3600
+---------------------------------
+
+Thank you for playing!
+1 days have passed.
+0 golds earned.

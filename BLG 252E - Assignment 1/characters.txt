@@ -1,0 +1,22 @@
+Alexander 27 20 5
+Gotham city
+Vice city
+Sokovia castle
+Skaro castle
+Shire village
+Felipe 15 12 3
+Scranton city
+Shurima castle
+Westview village
+Salman 15 13 3
+Zion city
+Tatooine castle
+Tulsa village
+Dooku 6 9 2
+Hogsmeade village
+Kanto village
+Cristo 6 8 2
+Arcadia village
+Magrathea village
+Dracula 3 5 1
+Capitol village
